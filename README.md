@@ -1,2 +1,2 @@
-# SML
-Supervised Machine Learning
+# SQL
+
